@@ -1,7 +1,7 @@
 # SEJONG - LOG
 
 <div align="center">
-<img width="400" alt="image" src="https://ibb.co/pQ1NQM0">
+<img width="400" alt="image" src="https://i.ibb.co/RNgtNsv/1.png">
 
 
 </div>
@@ -21,8 +21,8 @@
 
 |    임우진      |          복민정         |                                                                                                               
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | 
-|   <img width="160px" src="https://ifh.cc/g/0vgkkd.jpg" />    |                      <img width="160px" src="https://user-images.githubusercontent.com/50205887/207570536-f5a82e48-99a1-4399-91d3-75fc5f8f3349.png" />    |   
-|   [@hyunsoo730](https://github.com/hyunsoo730)   |    [@k-ms1998](https://github.com/k-ms1998)  |   
+|   <img width="160px" src="https://avatars.githubusercontent.com/u/25877253?v=4" />    |                      <img width="160px" src="https://avatars.githubusercontent.com/u/129048011?v=4" />    |   
+|   [@IdeaBank](https://github.com/IdeaBank)   |    [@BOK-MINJEONG](https://github.com/BOK-MINJEONG)  |   
 | 세종대학교 소프트웨어학과 2학년 | 세종대학교 소프트웨어학과 2학년 |   
 
 ### 프론트
@@ -30,8 +30,8 @@
 
 |    김도윤      |          이지호         |                                                                                                               
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | 
-|   <img width="160px" src="https://ifh.cc/g/0vgkkd.jpg" />    |                      <img width="160px" src="https://user-images.githubusercontent.com/50205887/207570536-f5a82e48-99a1-4399-91d3-75fc5f8f3349.png" />    |   
-|   [@hyunsoo730](https://github.com/hyunsoo730)   |    [@k-ms1998](https://github.com/k-ms1998)  |   
+|   <img width="160px" src="https://avatars.githubusercontent.com/u/129079596?v=4" />    |                      <img width="160px" src="https://user-images.githubusercontent.com/50205887/207570536-f5a82e48-99a1-4399-91d3-75fc5f8f3349.png" />    |   
+|   [@doyun5565](https://github.com/doyun5565)   |    [@wlgh1553](https://github.com/wlgh1553)  |   
 | 세종대학교 소프트웨어학과 2학년 | 세종대학교 소프트웨어학과 2학년 |  
 
 ## 프로젝트 소개
